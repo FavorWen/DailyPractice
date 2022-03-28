@@ -1,0 +1,7 @@
+{
+    "data":["2022-03-28"],
+    "time":["60 min"],
+    "url":"https://leetcode-cn.com/problems/find-peak-element/submissions/",
+    "label":["二分查找"],
+    "comment":["提交6次通过，主要在于边界条件判断，使得数组访问越界"]
+}
